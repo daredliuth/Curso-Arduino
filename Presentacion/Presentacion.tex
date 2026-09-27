@@ -1,0 +1,259 @@
+%Con handout eliminamos todos los \pause
+\documentclass[handout, 14pt]{beamer}
+%Paquetes.
+\usepackage{graphicx}
+\usepackage[spanish, mexico]{babel}
+\usepackage{pgfpages}
+
+%Etiquetas personalizables.
+\newcommand{\tipo}[1]{\textcolor{blue}}
+
+%\pgfpagesuselayout{4 on 1}
+%Datos del documento.
+\title{Curso de Arduino}
+\author{Eliuth Montiel Navarrete}
+\date{Septiembre 26 de 2026}
+
+\usetheme{Madrid}
+
+\begin{document}
+\maketitle
+
+\begin{frame}{Índice}
+    \tableofcontents
+\end{frame}
+
+\begin{frame}
+    
+    \includegraphics[width=0.25\textwidth]{img/Eda.jpg}
+    \frametitle{¿Quíén soy?}
+    \textbf{Estudios}:
+    Ingeniería mecatrónica, técnico en computación.
+    \\
+    \textbf{Cursos y diplomados}:
+    Inteligencia artificial aplicada, diseño y programación de videojuegos, programación.
+    \\
+    \textbf{Gustos e intereses}:
+    Videojuegos, programación, electrónica, idiomas, software libre, ciencia.
+
+\end{frame}
+
+\section{Clase 1: Fundamentos de programación}
+\subsection{Variables}
+\begin{frame}[fragile]{Variables}
+    En C, una variable es un espacio de memoria en el cuál guardan datos para ser utilizados después. \cite{gfg_variables}
+    \\
+    Las variables se definen siguiendo la siguiente sintáxix:
+    \begin{verbatim}
+        tipo nombre = valor;
+    \end{verbatim}
+    \begin{exampleblock}{Ejemplos}
+        \begin{verbatim}
+        int edad = 45;
+        float decimales = 1.15;
+        char letra = 'a';
+        bool verdad = true;
+        \end{verbatim}
+    \end{exampleblock}
+\end{frame}
+
+\begin{frame}[fragile]{Variables}
+    Reglas para nombrar variables:
+    \begin{itemize}
+        \item Solo pueden contener letras, dígitos y guión bajo.
+        \item No pueden comenzar con un dígito.
+        \item No pueden ser \textbf{palabras reservadas}.
+        \item El nombre debe ser único en el programa.
+    \end{itemize}
+\end{frame}
+
+\subsection{Tipos de datos}
+\begin{frame}{Tipos de datos}
+    \begin{columns}{}
+        \begin{column}{0.3\textwidth}
+            \begin{block}{Básicos}
+                \begin{itemize}
+                    \item int
+                    \item float
+                    \item double
+                    \item char
+                    \item bool
+                    \item void
+                \end{itemize}
+            \end{block}
+        \end{column}
+
+        \begin{column}{0.3\textwidth}
+            \begin{block}{Derivados}
+                \begin{itemize}
+                    \item Arreglo
+                    \item Apuntador
+                \end{itemize}
+            \end{block}
+        \end{column}
+        \begin{column}{0.3\textwidth}
+            \begin{block}{Definidos por el usuario}
+                \begin{itemize}
+                    \item union
+                    \item structure
+                    \item enum
+                \end{itemize}
+            \end{block}
+        \end{column}
+    \end{columns}
+    \cite{gfg_tipos}
+\end{frame}
+
+\begin{frame}[fragile]{Tipos de datos}
+    \begin{exampleblock}{Ejemplos}
+        \begin{verbatim}
+            int i = 6;
+            float f = 0.1;
+            double d = 0.0005;
+            char c = 'a';
+            bool b = false;
+            void v;
+        \end{verbatim}
+    \end{exampleblock}
+\end{frame}
+
+\begin{frame}[fragile]{Tipos de datos}
+    \begin{exampleblock}{Ejemplos}
+        \begin{verbatim}
+    char nombre[5] = {'A','n','a','h','i'};
+            char* charPointer = &nombre; 
+        \end{verbatim}
+    \end{exampleblock}
+\end{frame}
+
+\begin{frame}[fragile]{Tipos de datos}
+    \begin{exampleblock}{Ejemplos}
+        \begin{verbatim}
+            union Dato{
+                int x;
+                float f;
+            };
+        \end{verbatim}
+    \end{exampleblock}
+\end{frame}
+
+\begin{frame}[fragile]{Tipos de datos}
+    \begin{exampleblock}{Ejemplos}
+        \begin{verbatim}
+            structure Estructura{
+                char nombre[5];
+                int edad;
+                float calificacion;
+            };
+        \end{verbatim}
+    \end{exampleblock}
+\end{frame}
+
+\begin{frame}[fragile]{Tipos de datos}
+    \begin{exampleblock}{Ejemplos}
+        \begin{verbatim}
+enum Dia{
+    LUNES, MARTE, MIERCOLES, JUEVES, VIERNES
+};
+        \end{verbatim}
+    \end{exampleblock}
+\end{frame}
+
+\subsection{Asignación y expreciones}
+\begin{frame}[fragile]{Asignación}
+    Es una operación en la cual el valor del operando derecho
+    se asigna al operando izquierdo (variable).\cite{microsoft_asignacion}
+    \begin{exampleblock}{Ejemplos}
+        \begin{verbatim}
+                =, +=, -=
+                *=, /=, %=
+            <<=, >>=, &=, ^=, |=
+        \end{verbatim}
+    \end{exampleblock}
+\end{frame}
+
+\begin{frame}[fragile]{Expresiones}
+    Es una secuencia de operadores y sus operandos, que especifica un cómputo.\cite{cpp_expressions}
+    Se pueden clasificar como unarias, binarias, y otras.
+    \begin{block}{Unarias}
+        \begin{verbatim}
+                ++. --, !
+        \end{verbatim}
+    \end{block}
+    \begin{block}{Binarias}
+        \begin{verbatim}
+        +. -. ==, !=, <, > <=, >=
+        \end{verbatim}
+    \end{block}
+\end{frame}
+
+\section{Estructuras de control}
+\subsection{Condicionales}
+\begin{frame}{if}
+
+\end{frame}
+
+\begin{frame}{if-else}
+    
+\end{frame}
+
+\begin{frame}{switch}
+    
+\end{frame}
+
+\section{Desarrollo}
+\begin{frame}{Mi segunda diapositiva}
+    Esta es una lista de cosas por hacer:
+    \begin{itemize}
+        %\pause: Crea varias páginas con el contenido que está hasta \pause.
+        \item Primera cosa. \pause
+        \item Segunda cosa. \pause
+        \item Tercera cosa. \pause
+    \end{itemize}    
+
+    Esta es una ecuación
+    \begin{equation}
+        e^{\pi i} + 1 = 0
+    \end{equation}
+
+\end{frame}
+
+\section{Imágenes}
+\begin{frame}{Imágenes}
+    \begin{columns}
+        \column{0.7\textwidth}
+            \begin{figure}
+                \centering
+                \includegraphics{img/Eda.jpg}
+                \caption{Eda pequeña}
+                \label{fig:Eda-pequeña}
+            \end{figure}
+        \column{0.3\textwidth}
+        Texto ejemplificando la superioridad de Eda pequeña.
+    \end{columns}
+\end{frame}
+
+\begin{frame}{Bloques}
+    \begin{block}{Texto importante}
+        Esto es un texto importante.
+    \end{block}
+    \begin{alertblock}{Texto de alerta}
+        Hola.\footnote{Esta es una nota.}
+    \end{alertblock}
+    \begin{exampleblock}{Texto de ejemplo}
+        Esto es un ejemplo.
+    \end{exampleblock}
+\end{frame}
+
+\section{Conclusión}
+\begin{frame}
+    Mis conclusiones son las siguientes:\\
+    Sí.
+\end{frame}
+
+\section{Referencias}
+\begin{frame}{Referencias}
+    \bibliographystyle{IEEEtran}
+    \bibliography{referencias.bib}
+\end{frame}
+\end{document}

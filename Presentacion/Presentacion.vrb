@@ -1,0 +1,13 @@
+\frametitle{Expresiones}
+Es una secuencia de operadores y sus operandos, que especifica un cómputo.\cite{cpp_expressions}
+    Se pueden clasificar como unarias, binarias, y otras.
+    \begin{block}{Unarias}
+        \begin{verbatim}
+                ++. --, !
+        \end{verbatim}
+    \end{block}
+    \begin{block}{Binarias}
+        \begin{verbatim}
+        +. -. ==, !=, <, > <=, >=
+        \end{verbatim}
+    \end{block}
