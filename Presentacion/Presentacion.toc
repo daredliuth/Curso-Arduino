@@ -2,10 +2,7 @@
 \beamer@sectionintoc {1}{Clase 1: Fundamentos de programación}{4}{0}{1}
 \beamer@subsectionintoc {1}{1}{Variables}{4}{0}{1}
 \beamer@subsectionintoc {1}{2}{Tipos de datos}{6}{0}{1}
-\beamer@subsectionintoc {1}{3}{Asignación y expreciones}{12}{0}{1}
+\beamer@subsectionintoc {1}{3}{Asignación y expresiones}{12}{0}{1}
 \beamer@sectionintoc {2}{Estructuras de control}{14}{0}{2}
 \beamer@subsectionintoc {2}{1}{Condicionales}{14}{0}{2}
-\beamer@sectionintoc {3}{Desarrollo}{17}{0}{3}
-\beamer@sectionintoc {4}{Imágenes}{18}{0}{4}
-\beamer@sectionintoc {5}{Conclusión}{20}{0}{5}
-\beamer@sectionintoc {6}{Referencias}{21}{0}{6}
+\beamer@sectionintoc {3}{Referencias}{17}{0}{3}

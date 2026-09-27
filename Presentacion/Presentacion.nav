@@ -28,10 +28,10 @@
 \headcommand {\slideentry {1}{2}{6}{11/11}{Tipos de datos}{0}}
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\beamer@subsectionpages {6}{11}}
-\headcommand {\beamer@subsectionentry {0}{1}{3}{12}{Asignación y expreciones}}
-\headcommand {\slideentry {1}{3}{1}{12/12}{Asignación y expreciones}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{12}{Asignación y expresiones}}
+\headcommand {\slideentry {1}{3}{1}{12/12}{Asignación y expresiones}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {1}{3}{2}{13/13}{Asignación y expreciones}{0}}
+\headcommand {\slideentry {1}{3}{2}{13/13}{Asignación y expresiones}{0}}
 \headcommand {\beamer@framepages {13}{13}}
 \headcommand {\beamer@sectionpages {4}{13}}
 \headcommand {\beamer@subsectionpages {12}{13}}
@@ -46,28 +46,11 @@
 \headcommand {\beamer@framepages {16}{16}}
 \headcommand {\beamer@sectionpages {14}{16}}
 \headcommand {\beamer@subsectionpages {14}{16}}
-\headcommand {\sectionentry {3}{Desarrollo}{17}{Desarrollo}{0}}
+\headcommand {\sectionentry {3}{Referencias}{17}{Referencias}{0}}
 \headcommand {\slideentry {3}{0}{1}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\beamer@sectionpages {17}{17}}
+\headcommand {\beamer@partpages {1}{17}}
 \headcommand {\beamer@subsectionpages {17}{17}}
-\headcommand {\sectionentry {4}{Imágenes}{18}{Imágenes}{0}}
-\headcommand {\slideentry {4}{0}{1}{18/18}{}{0}}
-\headcommand {\beamer@framepages {18}{18}}
-\headcommand {\slideentry {4}{0}{2}{19/19}{}{0}}
-\headcommand {\beamer@framepages {19}{19}}
-\headcommand {\beamer@sectionpages {18}{19}}
-\headcommand {\beamer@subsectionpages {18}{19}}
-\headcommand {\sectionentry {5}{Conclusión}{20}{Conclusión}{0}}
-\headcommand {\slideentry {5}{0}{1}{20/20}{}{0}}
-\headcommand {\beamer@framepages {20}{20}}
-\headcommand {\beamer@sectionpages {20}{20}}
-\headcommand {\beamer@subsectionpages {20}{20}}
-\headcommand {\sectionentry {6}{Referencias}{21}{Referencias}{0}}
-\headcommand {\slideentry {6}{0}{1}{21/21}{}{0}}
-\headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@partpages {1}{21}}
-\headcommand {\beamer@subsectionpages {21}{21}}
-\headcommand {\beamer@sectionpages {21}{21}}
-\headcommand {\beamer@documentpages {21}}
-\headcommand {\gdef \inserttotalframenumber {21}}
+\headcommand {\beamer@sectionpages {17}{17}}
+\headcommand {\beamer@documentpages {17}}
+\headcommand {\gdef \inserttotalframenumber {17}}
