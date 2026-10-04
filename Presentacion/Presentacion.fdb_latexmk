@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex Presentacion"] 1790531600.81749 "Presentacion.aux" "Presentacion.bbl" "Presentacion" 1790531698.61785 0
-  "./referencias.bib" 1790358507.64774 686 4005f8d77e469cb659ae9b50a9a18608 ""
+["bibtex Presentacion"] 1791082554.14162 "Presentacion.aux" "Presentacion.bbl" "Presentacion" 1791082651.35826 0
+  "./referencias.bib" 1791078926.70889 686 4005f8d77e469cb659ae9b50a9a18608 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "Presentacion.aux" 1790531697.85542 5181 56f3ced034ce86f797072cc01d94830c "pdflatex"
+  "Presentacion.aux" 1791082650.54595 6311 7303545f1d8ae677381fb8f1bd4d1b91 "pdflatex"
   (generated)
   "Presentacion.bbl"
   "Presentacion.blg"
   (rewritten before read)
-["pdflatex"] 1790531694.27125 "/home/daredliuth/Documentos/Cursos/Curso-Arduino/Presentacion/Presentacion.tex" "Presentacion.pdf" "Presentacion" 1790531698.61839 0
+["pdflatex"] 1791082645.88203 "/home/daredliuth/Documentos/Cursos/Curso-Arduino/Presentacion/Presentacion.tex" "Presentacion.pdf" "Presentacion" 1791082651.35862 0
   "/etc/texmf/web2c/texmf.cnf" 1743445549.02317 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/daredliuth/Documentos/Cursos/Curso-Arduino/Presentacion/Presentacion.tex" 1790531696.05541 5443 42e42da26de344401a09eff02843a110 ""
+  "/home/daredliuth/Documentos/Cursos/Curso-Arduino/Presentacion/Presentacion.tex" 1791082645.49194 8110 f242ebee7cda27bfcbcd1ed4d917ed7d ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -207,13 +207,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1743445566.42704 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1743445660 8214172 89740d0e34e07545cfae4611fd814138 ""
-  "Presentacion.aux" 1790531697.85542 5181 56f3ced034ce86f797072cc01d94830c "pdflatex"
-  "Presentacion.bbl" 1790531601.06714 1709 9a4e1e0f085017db5b9ede45daa76a5f "bibtex Presentacion"
-  "Presentacion.nav" 1790531697.85942 2956 b9a86ebc419c00b70dad98ea2dd68d7a "pdflatex"
-  "Presentacion.out" 1790531697.85942 1040 5ed712753048cef25a6195833d93657a "pdflatex"
-  "Presentacion.tex" 1790531696.05541 5443 42e42da26de344401a09eff02843a110 ""
-  "Presentacion.toc" 1790531697.85942 441 61b5af005c316b19d785e3ccbc441b9c "pdflatex"
-  "Presentacion.vrb" 1790531697.54142 424 1a4a02ba39fcf113f7f0885a70ca6f04 "pdflatex"
+  "Presentacion.aux" 1791082650.54595 6311 7303545f1d8ae677381fb8f1bd4d1b91 "pdflatex"
+  "Presentacion.bbl" 1791082554.42884 1709 9a4e1e0f085017db5b9ede45daa76a5f "bibtex Presentacion"
+  "Presentacion.nav" 1791082650.55095 3693 295d35e0d0dacd8b80ee1a0173709506 "pdflatex"
+  "Presentacion.out" 1791082650.54995 1251 9ab17513ca910a8ae16e9e7ad8225827 "pdflatex"
+  "Presentacion.tex" 1791082645.49194 8110 f242ebee7cda27bfcbcd1ed4d917ed7d ""
+  "Presentacion.toc" 1791082650.55095 546 cf07a3d466d6b77b689d72a0bcd3cdb8 "pdflatex"
+  "Presentacion.vrb" 1791082650.39795 273 d8f0362384adf658ded82f604af5edca "pdflatex"
   "img/Eda.jpg" 1694304645.09409 64958 225bbbf27c1c9beff000441686966806 ""
   (generated)
   "Presentacion.aux"

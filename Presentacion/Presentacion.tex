@@ -189,16 +189,105 @@ enum Dia{
 
 \section{Estructuras de control}
 \subsection{Condicionales}
-\begin{frame}{if}
-
+\begin{frame}[fragile]{if}
+    Es una estructura que nos permite ejecutar una sección de código textbf{si} se cumple una condición.
+    \begin{block}{Sintáxis}
+        \begin{verbatim}
+            if(condicion){
+                //codigo.
+            }
+        \end{verbatim}
+    \end{block}
 \end{frame}
 
-\begin{frame}{if-else}
-    
+\begin{frame}[fragile]{else}
+    Es un complemento del if que permite elegir entre la ejecución de una u otra sección de código.
+    \begin{block}{Sintáxis}
+        \begin{verbatim}
+            if(condicion){
+                //Un código.
+            }
+            else{
+                //Otro código.
+            }
+        \end{verbatim}
+    \end{block}
 \end{frame}
 
-\begin{frame}{switch}
-    
+\begin{frame}[fragile]{else-if}
+    Es una combinación de else e if que permite condicionar la ejecución de una u otra sección de código.
+    \begin{block}{Sintáxis}
+        \begin{verbatim}
+            if(condicion){
+                //Un código.
+            }
+            else if(otraCondicion){
+                //Más código.
+            }
+        \end{verbatim}
+    \end{block}
+\end{frame}
+
+\begin{frame}[fragile]{switch}
+    Es una estructura que nos permite elegir entre varias opciones de manera más compacta que con una serie de if.
+    \begin{block}{Sintáxis}
+        \begin{verbatim}
+            switch(caso){
+                caso1:
+                    //Código 1.
+                break;
+                default:
+                    //Código predeterminado.
+                break;
+            }
+        \end{verbatim}
+    \end{block}
+\end{frame}
+
+\subsection{Iterativas}
+\begin{frame}[fragile]{for}
+    Ejecuta una sección de código un número de veces determinado.
+    \begin{block}{Sintáxis}
+        \begin{verbatim}
+            for(int i = 0; i < n ; i++){
+                //Código.
+            }
+        \end{verbatim}
+    \end{block}
+\end{frame}
+
+\begin{frame}[fragile]{while}
+    Permite ejecutar una sección de código \textbf{mientras} se cumpla una condición.
+    \begin{block}{Sintáxis}
+        \begin{verbatim}
+            while(condicion){
+                //Código.
+            }
+        \end{verbatim}
+    \end{block}
+\end{frame}
+
+\begin{frame}[fragile]{do-while}
+    Similar al while, pero verifica la condición al final de la ejecución del código.
+    \begin{block}{Sintáxis}
+        \begin{verbatim}
+            do{
+                //Código.
+            } while(condicion);
+        \end{verbatim}
+    \end{block}
+\end{frame}
+
+\subsection{Funciones}
+\begin{frame}[fragile]{Funciones}
+    Son secciones de código que se ejecutan a voluntad, pueden regresar valores y recibir valores.
+    \begin{block}{Sintáxis}
+        \begin{verbatim}
+tipo NombreFuncion(parametro1, parametro2){
+    //Código.
+}
+        \end{verbatim}
+    \end{block}
 \end{frame}
 
 \section{Referencias}

@@ -1,13 +1,9 @@
-\frametitle{Expresiones}
-Es una secuencia de operadores y sus operandos, que especifica un cómputo.\cite{cpp_expressions}
-    Se pueden clasificar como unarias, binarias, y otras.
-    \begin{block}{Unarias}
+\frametitle{Funciones}
+Son secciones de código que se ejecutan a voluntad, pueden regresar valores y recibir valores.
+    \begin{block}{Sintáxis}
         \begin{verbatim}
-                ++. --, !
-        \end{verbatim}
-    \end{block}
-    \begin{block}{Binarias}
-        \begin{verbatim}
-        +. -. ==, !=, <, > <=, >=
+tipo NombreFuncion(parametro1, parametro2){
+    //Código.
+}
         \end{verbatim}
     \end{block}
