@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.3.31)  3 OCT 2026 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.3.31)  10 OCT 2026 22:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -734,7 +734,7 @@ LaTeX Info: Redefining \% on input line 1.
 ) [2
 
 ]
-<img/Eda.jpg, id=101, 180.675pt x 161.8848pt>
+<img/Eda.jpg, id=124, 180.675pt x 161.8848pt>
 File: img/Eda.jpg Graphic file (type jpg)
 <use img/Eda.jpg>
 Package pdftex.def Info: img/Eda.jpg  used on input line 39.
@@ -844,7 +844,48 @@ Overfull \vbox (7.29004pt too high) detected at line 245
 
  (./Presentacion.vrb) [21
 
-] (./Presentacion.bbl) [22
+]
+<img/GameBoy.jpeg, id=524, 2922.92pt x 3011.25pt>
+File: img/GameBoy.jpeg Graphic file (type jpg)
+<use img/GameBoy.jpeg>
+Package pdftex.def Info: img/GameBoy.jpeg  used on input line 302.
+(pdftex.def)             Requested size: 100.79973pt x 103.84229pt.
+<img/GameBoy-circuito.png, id=525, 1124.2pt x 1033.8625pt>
+File: img/GameBoy-circuito.png Graphic file (type png)
+<use img/GameBoy-circuito.png>
+Package pdftex.def Info: img/GameBoy-circuito.png  used on input line 302.
+(pdftex.def)             Requested size: 100.79973pt x 92.69655pt.
+<img/Protoboard.jpg, id=526, 1606.0pt x 1204.5pt>
+File: img/Protoboard.jpg Graphic file (type jpg)
+<use img/Protoboard.jpg>
+Package pdftex.def Info: img/Protoboard.jpg  used on input line 302.
+(pdftex.def)             Requested size: 124.31676pt x 93.2375pt.
+ [22
+
+ <./img/GameBoy.jpeg> <./img/GameBoy-circuito.png> <./img/Protoboard.jpg>]
+<img/Ley-ohm.jpg, id=534, 508.90125pt x 286.06876pt>
+File: img/Ley-ohm.jpg Graphic file (type jpg)
+<use img/Ley-ohm.jpg>
+Package pdftex.def Info: img/Ley-ohm.jpg  used on input line 306.
+(pdftex.def)             Requested size: 335.99568pt x 188.88016pt.
+ [23
+
+ <./img/Ley-ohm.jpg>]
+<img/Diagrama-gameboy.jpg, id=555, 488.57532pt x 252.945pt>
+File: img/Diagrama-gameboy.jpg Graphic file (type jpg)
+<use img/Diagrama-gameboy.jpg>
+Package pdftex.def Info: img/Diagrama-gameboy.jpg  used on input line 315.
+(pdftex.def)             Requested size: 167.99783pt x 86.97664pt.
+<img/Símbolos.png, id=556, 475.7775pt x 276.03125pt>
+File: img/Símbolos.png Graphic file (type png)
+<use img/Símbolos.png>
+Package pdftex.def Info: img/Símbolos.png  used on input line 315.
+(pdftex.def)             Requested size: 151.19702pt x 87.72107pt.
+ [24
+
+ <./img/Diagrama-gameboy.jpg> <./img/Símbolos.png>] [25
+
+] (./Presentacion.bbl) [26
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -865,21 +906,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `Presentacion.out' has not changed.
-(rerunfilecheck)             Checksum: 9AB17513CA910A8AE16E9E7AD8225827;1251.
+(rerunfilecheck)             Checksum: A08B2762A1A47A8A774BCC5F6DF17A1C;2096.
  ) 
 Here is how much of TeX's memory you used:
- 23529 strings out of 474222
- 457222 string characters out of 5748733
+ 23628 strings out of 474222
+ 459698 string characters out of 5748733
  1940975 words of memory out of 5000000
- 45214 multiletter control sequences out of 15000+600000
+ 45301 multiletter control sequences out of 15000+600000
  564753 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,470b,965s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Presentacion.pdf (22 pages, 190400 bytes).
+Output written on Presentacion.pdf (26 pages, 2555602 bytes).
 PDF statistics:
- 545 PDF objects out of 1000 (max. 8388607)
- 332 compressed objects within 4 object streams
- 58 named destinations out of 1000 (max. 500000)
- 870 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 652 PDF objects out of 1000 (max. 8388607)
+ 399 compressed objects within 4 object streams
+ 70 named destinations out of 1000 (max. 500000)
+ 1076 words of extra memory for PDF output out of 10000 (max. 10000000)
 

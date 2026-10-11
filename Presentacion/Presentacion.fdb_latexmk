@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex Presentacion"] 1791082554.14162 "Presentacion.aux" "Presentacion.bbl" "Presentacion" 1791082651.35826 0
+["bibtex Presentacion"] 1791692918.16497 "Presentacion.aux" "Presentacion.bbl" "Presentacion" 1791692924.54441 0
   "./referencias.bib" 1791078926.70889 686 4005f8d77e469cb659ae9b50a9a18608 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "Presentacion.aux" 1791082650.54595 6311 7303545f1d8ae677381fb8f1bd4d1b91 "pdflatex"
+  "Presentacion.aux" 1791692923.76704 8064 ebd99ec4d5b1bdcabfcce754e1928c8b "pdflatex"
   (generated)
   "Presentacion.bbl"
   "Presentacion.blg"
   (rewritten before read)
-["pdflatex"] 1791082645.88203 "/home/daredliuth/Documentos/Cursos/Curso-Arduino/Presentacion/Presentacion.tex" "Presentacion.pdf" "Presentacion" 1791082651.35862 0
+["pdflatex"] 1791692918.43815 "/home/daredliuth/Documentos/Cursos/Curso-Arduino/Presentacion/Presentacion.tex" "Presentacion.pdf" "Presentacion" 1791692924.54509 0
   "/etc/texmf/web2c/texmf.cnf" 1743445549.02317 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/daredliuth/Documentos/Cursos/Curso-Arduino/Presentacion/Presentacion.tex" 1791082645.49194 8110 f242ebee7cda27bfcbcd1ed4d917ed7d ""
+  "/home/daredliuth/Documentos/Cursos/Curso-Arduino/Presentacion/Presentacion.tex" 1791692911.97195 9422 080775306c8369b49c4017a4e7f3cd9a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -207,14 +207,20 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1743445566.42704 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1743445660 8214172 89740d0e34e07545cfae4611fd814138 ""
-  "Presentacion.aux" 1791082650.54595 6311 7303545f1d8ae677381fb8f1bd4d1b91 "pdflatex"
-  "Presentacion.bbl" 1791082554.42884 1709 9a4e1e0f085017db5b9ede45daa76a5f "bibtex Presentacion"
-  "Presentacion.nav" 1791082650.55095 3693 295d35e0d0dacd8b80ee1a0173709506 "pdflatex"
-  "Presentacion.out" 1791082650.54995 1251 9ab17513ca910a8ae16e9e7ad8225827 "pdflatex"
-  "Presentacion.tex" 1791082645.49194 8110 f242ebee7cda27bfcbcd1ed4d917ed7d ""
-  "Presentacion.toc" 1791082650.55095 546 cf07a3d466d6b77b689d72a0bcd3cdb8 "pdflatex"
-  "Presentacion.vrb" 1791082650.39795 273 d8f0362384adf658ded82f604af5edca "pdflatex"
+  "Presentacion.aux" 1791692923.76704 8064 ebd99ec4d5b1bdcabfcce754e1928c8b "pdflatex"
+  "Presentacion.bbl" 1791692918.427 1709 9a4e1e0f085017db5b9ede45daa76a5f "bibtex Presentacion"
+  "Presentacion.nav" 1791692923.77204 4783 1bb4c25a9de1fb97454e4984de6835a9 "pdflatex"
+  "Presentacion.out" 1791692923.77104 2096 a08b2762a1a47a8a774bcc5f6df17a1c "pdflatex"
+  "Presentacion.tex" 1791692911.97195 9422 080775306c8369b49c4017a4e7f3cd9a ""
+  "Presentacion.toc" 1791692923.77204 831 22df08425c179c834470d148196d3bde "pdflatex"
+  "Presentacion.vrb" 1791692922.48903 273 d8f0362384adf658ded82f604af5edca "pdflatex"
+  "img/Diagrama-gameboy.jpg" 1791692471.02237 44836 30877fb73b94f2084eee69ea563df614 ""
   "img/Eda.jpg" 1694304645.09409 64958 225bbbf27c1c9beff000441686966806 ""
+  "img/GameBoy-circuito.png" 1791691930.72536 441195 6f2a5ae0d1c50f5176845950e1d49a06 ""
+  "img/GameBoy.jpeg" 1791691950.49714 1354680 537ab6cf3f14c0161f493e1bf172402b ""
+  "img/Ley-ohm.jpg" 1791691818.41257 43551 4eed509ad7578c0be9512f515c6dd850 ""
+  "img/Protoboard.jpg" 1791692073.56081 261817 a4b2ec3461ff6cbb109958f4eb9865f0 ""
+  "img/Símbolos.png" 1791692691.5426 29009 a46571a65af55c08e3ae3026c0650f3a ""
   (generated)
   "Presentacion.aux"
   "Presentacion.log"
